@@ -1,1 +1,1 @@
-# stock-price-prediction
+It is a Python-based project designed to predict stock prices using machine learning, specifically linear regression. The program fetches historical market data from the Yahoo Finance API, visualizes stock price trends, and employs a linear regression model for price prediction. Users can input a specific year to obtain a forecasted stock price, providing valuable insights for decision-making in the stock market. The project combines data processing, visualization using linear regression.
